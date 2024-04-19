@@ -1,3 +1,3 @@
-# pDSP Digital Signal Processing
+# pDSP
 
 A WIP digital signal processing library in Rust.
